@@ -3,7 +3,7 @@ OSU Chinese Hackers
 
 This is a GitHub organization to gather Chinese students in the Ohio State University.
 
-If you are interested to be added into this organization, please add an issue in this repository.
+If you are interested to be added into this organization, please [post an issue](https://github.com/buckeye-cn/About/issues/new?title=Please add me to the member list) in this repository.
 
 OSU Organizations on GitHub
 ---
