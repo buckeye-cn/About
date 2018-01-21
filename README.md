@@ -1,24 +1,23 @@
 OSU Chinese Hackers
 ===
 
-This is a GitHub organization to gather Chinese students in the Ohio State University.
+We are an unofficial organization in the Ohio State University that gather Chinese students who are interested in computer science and technology.
 
-If you are interested to be added into this organization, please [post an issue](https://github.com/buckeye-cn/About/issues/new?title=Please%20add%20me%20to%20the%20member%20list) in this repository.
+Our events include: weekly lectures, ACM-ICPC trainings, Hackathon team formation + preparation, and winter coding camps.
+
+To join us, please [post an issue](https://github.com/buckeye-cn/About/issues/new?title=Please%20add%20me%20to%20the%20member%20list) in this repository or contact @hczhcz.
 
 OSU Organizations on GitHub
 ---
 
-### Departments and Offices
-
-* [University Libraries](https://github.com/osulibraries)
-* [University Communications](https://github.com/osucomm)
-* [Math Department Mooculus](https://github.com/mooculus)
-
-### Clubs, Teams and Other
-
-* [Open Source Club](https://github.com/OSUOSC)
-* [IEEE SAC](https://github.com/IEEE-OSU)
-* [Underwater Robotics Team](https://github.com/osu-uwrt)
+* [Buckeye Hackers](https://github.com/BuckeyeHackers)
+* [Buckeye Interactive](https://github.com/buckii)
 * [EcoCAR Team](https://github.com/OSUEcoCAR)
 * [Gibbs Lab](https://github.com/OSUGibbsLab)
+* [IEEE SAC](https://github.com/IEEE-OSU)
+* [Math Department Mooculus](https://github.com/mooculus)
+* [Open Source Club](https://github.com/OSUOSC)
+* [Underwater Robotics Team](https://github.com/osu-uwrt)
+* [University Communications](https://github.com/osucomm)
+* [University Libraries](https://github.com/osulibraries) 
 * [Ximera Project](https://github.com/XimeraProject)
