@@ -1,7 +1,7 @@
 OSU Chinese Hackers
 ===
 
-We are an unofficial organization in the Ohio State University that gather Chinese students who are interested in computer science and technology.
+OSU Chinese Hackers is an unofficial organization in the Ohio State University that gather Chinese students who are interested in computer science and technology.
 
 Our events include: weekly lectures, ACM-ICPC trainings, Hackathon team formation + preparation, and winter coding camps.
 
