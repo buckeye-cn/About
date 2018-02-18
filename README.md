@@ -10,6 +10,7 @@ To join us, please [post an issue](https://github.com/buckeye-cn/About/issues/ne
 OSU Organizations on GitHub
 ---
 
+* [ACM Club](https://github.com/OSUACM)
 * [Buckeye Hackers](https://github.com/BuckeyeHackers)
 * [Buckeye Interactive](https://github.com/buckii)
 * [EcoCAR Team](https://github.com/OSUEcoCAR)
