@@ -11,6 +11,7 @@ OSU Organizations on GitHub
 ---
 
 * [ACM Club](https://github.com/OSUACM)
+* [ACM-W](https://github.com/ACMWOSU)
 * [Buckeye Hackers](https://github.com/BuckeyeHackers)
 * [Buckeye Interactive](https://github.com/buckii)
 * [EcoCAR Team](https://github.com/OSUEcoCAR)
