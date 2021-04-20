@@ -10,7 +10,7 @@ To join us, please [post an issue](https://github.com/buckeye-cn/About/issues/ne
 OSU Organizations on GitHub
 ---
 
-* [ACM Club](https://github.com/OSUACM)
+* [Competitive Programming Club](https://github.com/cpcosu)
 * [ACM-W](https://github.com/ACMWOSU)
 * [Buckeye Hackers](https://github.com/BuckeyeHackers)
 * [Buckeye Interactive](https://github.com/buckii)
